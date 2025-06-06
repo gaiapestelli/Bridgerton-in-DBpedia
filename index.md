@@ -2,13 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Bridgerton in DBpedia
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+  [Home]()
+  [Selected Topic Description]()
+  [Gap, General Methodology and Tools]()
+  [Methodological Steps]()
+  [Challenges and LLMs Differences]()
 
 # Header 1
 
