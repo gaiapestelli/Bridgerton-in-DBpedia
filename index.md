@@ -1,17 +1,4 @@
-
-# Menu
-
-- [Home](#home)
-- [Selected Topic Description](#selected-topic-description)
-- [Gap, General Methodology and Tools](#gap-general-methodology-and-tools)
-- [Methodological Steps](#methodological-steps)
-- [Challenges and LLMs Differences](#challenges-and-llms-differences)
-
----
-
-<details id="home">
-<summary><strong>Home</strong></summary>
-
+# Home
 Welcome to **Bridgerton in DBpedia**. Here you'll find our study to enrich the knowledge graph dbr:Bridgerton https://dbpedia.org/page/Bridgerton
 
 ## Abstract
@@ -21,6 +8,16 @@ In this project, we explored and enriched a knowledge graph (KG) about the TV se
 ## Project by
 
 *Alessia Gavelli, Elisa Mainardi & Gaia Pestelli*
+
+# Menu
+
+- [Selected Topic Description](#selected-topic-description)
+- [Gap, General Methodology and Tools](#gap-general-methodology-and-tools)
+- [Methodological Steps](#methodological-steps)
+- [Challenges and LLMs Differences](#challenges-and-llms-differences)
+
+
+
 
 </details>
 
