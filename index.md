@@ -1,13 +1,18 @@
 
 # Menu
 
+- [Home](#home)
+- [Selected Topic Description](#selected-topic-description)
+- [Gap, General Methodology and Tools](#gap-general-methodology-and-tools)
+- [Methodological Steps](#methodological-steps)
+- [Challenges and LLMs Differences](#challenges-and-llms-differences)
 
-  [Home]()
-  [Selected Topic Description]()
-  [Gap, General Methodology and Tools]()
-  [Methodological Steps]()
-  [Challenges and LLMs Differences]()
+---
 
+<details id="home">
+<summary><strong>Home</strong></summary>
+
+Welcome to **Bridgerton in DBpedia**. Here you'll find our study to enrich the knowledge graph dbr:Bridgerton https://dbpedia.org/page/Bridgerton
 
 ## Abstract
 
@@ -16,5 +21,54 @@ In this project, we explored and enriched a knowledge graph (KG) about the TV se
 ## Project by
 
 *Alessia Gavelli, Elisa Mainardi & Gaia Pestelli*
+
+</details>
+
+---
+
+<details id="selected-topic-description">
+<summary><strong>Selected Topic Description</strong></summary>
+
+(Descrizione del topic selezionato)
+
+</details>
+
+---
+
+<details id="gap-general-methodology-and-tools">
+<summary><strong>Gap, General Methodology and Tools</strong></summary>
+
+(Metodologia, strumenti usati, problemi trovati)
+
+</details>
+
+---
+
+<details id="methodological-steps">
+<summary><strong>Methodological Steps</strong></summary>
+
+(Spiega i passaggi metodologici)
+
+</details>
+
+---
+
+<details id="challenges-and-llms-differences">
+<summary><strong>Challenges and LLMs Differences</strong></summary>
+
+(Differenze tra modelli, sfide trovate, riflessioni)
+
+</details>
+
+
+  [Home]()
+  [Selected Topic Description]()
+  [Gap, General Methodology and Tools]()
+  [Methodological Steps]()
+  [Challenges and LLMs Differences]()
+
+
+
+
 
 
